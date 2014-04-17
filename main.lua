@@ -26,8 +26,8 @@ kiip.init
 {
 	licenseKey = "Insert_Your_License_Key_Here",
 	testMode = true,
-	appid = "Insert_Your_Kiip_App_ID_Here",
-	secret = "Insert_Your_Kiip_App_Secret_Here",
+	appKey = "Insert_Your_Kiip_App_ID_Here",
+	appSecret = "Insert_Your_Kiip_App_Secret_Here",
 	email = "User_email_here@userEmail.com",
 	gender = "Female",
 	birthday = "05/01/1970",
