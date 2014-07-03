@@ -29,7 +29,7 @@ settings =
 		{
 			-- required
 			publisherId = "com.gremlininteractive",
-			supportedPlatforms = { iphone = true },
+			supportedPlatforms = { iphone = true, android = true },
 		},
 	},
 }

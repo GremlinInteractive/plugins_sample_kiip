@@ -59,14 +59,6 @@ local saveMomentButton = widget.newButton
     	{
     		momentName = "A Super Prize!",
     		value = 5,
-    		customBanner =
-    		{
-    			color = { 82, 122, 213, 1 },
-    			position = { 0, 0, bannerWidth, bannerHeight },
-    			image = { filename = "images/sample_background.png", baseDir = system.ResourceDirectory },
-    			title = "Congratulations!",
-    			message = "Click here to claim a reward!"
-    		},
     		listener = function( event )
     			-- Print the event table items
     			for k, v in pairs( event ) do
