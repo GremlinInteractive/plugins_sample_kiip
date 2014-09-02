@@ -24,8 +24,6 @@ local bannerHeight = 70
 -- Initialise the kiip library
 kiip.init
 {
-	licenseKey = "Insert_Your_License_Key_Here",
-	testMode = true,
 	appKey = "Insert_Your_Kiip_App_ID_Here",
 	appSecret = "Insert_Your_Kiip_App_Secret_Here",
 	email = "User_email_here@userEmail.com",
